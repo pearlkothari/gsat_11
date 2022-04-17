@@ -1,14 +1,14 @@
 # Pearl Kothari
 
-<h3>Hi there 👋</h3>
+Hi there 👋
 <br></br>
-<h3>⚡ I love programming, coding, web development</h3>
+⚡ I love programming, coding, web development
 <br></br>
-<h3>🌱 I’m addicted to learning and growing every day</h3>
+🌱 I’m addicted to learning and growing every day
 <br></br>
-<h3>🔭 I am currently working as software developer intern at Hybris World</h4>
+🔭 I am currently working as software developer intern at Hybris World
 <br></br>
-<h3>📫 How to find me:</h3>
+📫 How to find me:
 <br></br>
     <h4>🏢 <a href="https://www.linkedin.com/in/pearlkothari2/" target="_blank">Linkedin</a><h4>
 
