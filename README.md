@@ -1,6 +1,6 @@
 # Pearl Kothari
 
-Hi there 👋
+<h3>Hi there 👋</h3>
 <br></br>
 ⚡ I love programming, coding, web development
 <br></br>
